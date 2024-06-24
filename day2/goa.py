@@ -1,0 +1,2 @@
+print("I had no experience with programming before,so I decided to study in GOA. I haven't had a lesson yet, but I think that GOA will be the place where I can learn everything fully. I think that I will be able to meet many interesting people here. I will also have many memories that I will always remember.<3")
+print("I am new to goa, so I don't have many friends yet, but I became friends with the leader of my group, Nia. Of course, I will make many friends.")

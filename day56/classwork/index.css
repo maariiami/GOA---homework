@@ -1,0 +1,29 @@
+.image-div{
+    background-image: url("./tbilisi.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 35px;
+    box-shadow: -5px 5px 20px;
+    width: 400;
+    height: 200;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+    transition: 0.25s;
+    
+
+}
+
+
+.image-div:hover{
+    width: 700px;
+}
+
+#child{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+
