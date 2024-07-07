@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    background-color: palevioletred;
+}
+.parent{
+    display: flex;
+    width: 1000px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 260px;
+    position: relative;
+    position: fixed;
+    font-size: larger;
+    color: blueviolet;
+    gap: 20px;
+    text-decoration: none;
+    background-color: black;
+}

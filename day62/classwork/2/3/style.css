@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent{
+    display: grid;
+    height: 500px;
+    width: 700px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+}
+#southcorea{
+    background-image: url("./Seoul_\(175734251\).jpeg");
+}
+#tbilisi{
+    background-image: url("./tbilisi.webp");
+}
+#newyork{
+    background-image: url("./newyork.jpg");
+}
+#paris{
+    background-image: url("./paris.jpg");
+}
+#tokyo{
+    background-image: url("./tokyo.avif");
+}
+#dubai{
+    background-image: url("./dubai.jpg");
+}
+.child{
+    border-radius: 15px;
+    background-size: cover;
+    color: white;
+    padding-top: 100px;
+    padding-left: 50px;
+}
